@@ -171,8 +171,7 @@ const Curriculum = () => {
                 <div className="card-body">
                   <h5 className="card-title">Javascript</h5>
                   <div className="progress">
-                    <div className="progress-bar" role="progressbar" 
-                    style={progresswithd} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">75%</div>
+                    <div className="progress-bar" style={progresswithd}>75%</div>
                   </div>
                 </div>
               </div>
@@ -183,8 +182,7 @@ const Curriculum = () => {
                 <div className="card-body">
                   <h5 className="card-title">SQL</h5>
                   <div className="progress">
-                    <div className="progress-bar" role="progressbar" 
-                    style={progresswithd2} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">70%</div>
+                    <div className="progress-bar" style={progresswithd2}>70%</div>
                   </div>
                 </div>
               </div>
@@ -195,8 +193,7 @@ const Curriculum = () => {
                 <div className="card-body">
                   <h5 className="card-title">PHP</h5>
                   <div className="progress">
-                    <div className="progress-bar" role="progressbar" 
-                    style={progresswithd3} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">55%</div>
+                    <div className="progress-bar" style={progresswithd3}>55%</div>
                   </div>
                 </div>
                 </div>
